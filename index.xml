@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>每天进步一点点a </title>
+    <link>https://hugo-paper.vercel.app/</link>
+    <description>Recent content on 每天进步一点点a </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2008–2019, Steve Francia and the lee.so; all rights reserved.</copyright>
+    <lastBuildDate>Mon, 22 May 2023 20:14:33 +0800</lastBuildDate><atom:link href="https://hugo-paper.vercel.app/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>我的博客</title>
+      <link>https://hugo-paper.vercel.app/post/about/</link>
+      <pubDate>Mon, 22 May 2023 20:14:33 +0800</pubDate>
+      
+      <guid>https://hugo-paper.vercel.app/post/about/</guid>
+      <description>这是第一篇博客 【链接】2www.baidu.com
+Some Content</description>
+    </item>
+    
+  </channel>
+</rss>
